@@ -1,0 +1,38 @@
+.fadediv2 {
+  width: 100%;
+  height: 1000px;
+  background-color: #000000da;
+}
+
+.input-element {
+  height: 50px;
+  color: rgb(165, 165, 165);
+  background-color: #333333;
+  border: 0px;
+  border-radius: 5px;
+}
+
+.regbtn {
+  background-color: #e50914;
+  color: #fff !important;
+  width: 100%;
+}
+
+.fadecon {
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 5px;
+  width: 450px;
+  height: auto;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+input::placeholder {
+  font-family: helvetica;
+}
+
+.error-handler {
+  color: #e50914;
+  font-style: italic;
+  font-size: smaller;
+}
